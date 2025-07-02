@@ -1,0 +1,36 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "timeout": 20000
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "PAFN_fbeb70f2",
+            "timeout": 20000
+        },
+        {
+            "type": "java",
+            "name": "Dashboard",
+            "request": "launch",
+            "mainClass": "Dashboard",
+            "projectName": "PAFN_fbeb70f2",
+            "timeout": 20000
+        },
+        {
+            "type": "java",
+            "name": "LoginForm",
+            "request": "launch",
+            "mainClass": "LoginForm",
+            "projectName": "PAFN_fbeb70f2",
+            "timeout": 20000
+        }
+    ]
+}
