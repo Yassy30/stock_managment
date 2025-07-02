@@ -28,3 +28,10 @@ A lightweight **desktop application** built with **Java Swing** for efficient pr
 
 ```bash
 git clone https://github.com/Yassy30/stock-management-app.git
+```
+---
+
+## 👩‍💻 Author
+Yassmina Jabrouni<br>
+ -📧 yasminajabrouni@gmail.com <br>
+ -🌐 My Portfolio [https://yasmina-jabrouni.netlify.app/]
